@@ -1,0 +1,13 @@
+C:\Users\rodrigo.shimokawa\Downloads\t2\t2-master\Teste1\bin\Debug\netcoreapp3.1\Teste1.exe
+C:\Users\rodrigo.shimokawa\Downloads\t2\t2-master\Teste1\bin\Debug\netcoreapp3.1\Teste1.deps.json
+C:\Users\rodrigo.shimokawa\Downloads\t2\t2-master\Teste1\bin\Debug\netcoreapp3.1\Teste1.runtimeconfig.json
+C:\Users\rodrigo.shimokawa\Downloads\t2\t2-master\Teste1\bin\Debug\netcoreapp3.1\Teste1.runtimeconfig.dev.json
+C:\Users\rodrigo.shimokawa\Downloads\t2\t2-master\Teste1\bin\Debug\netcoreapp3.1\Teste1.dll
+C:\Users\rodrigo.shimokawa\Downloads\t2\t2-master\Teste1\bin\Debug\netcoreapp3.1\Teste1.pdb
+C:\Users\rodrigo.shimokawa\Downloads\t2\t2-master\Teste1\obj\Debug\netcoreapp3.1\Teste1.csprojAssemblyReference.cache
+C:\Users\rodrigo.shimokawa\Downloads\t2\t2-master\Teste1\obj\Debug\netcoreapp3.1\Teste1.AssemblyInfoInputs.cache
+C:\Users\rodrigo.shimokawa\Downloads\t2\t2-master\Teste1\obj\Debug\netcoreapp3.1\Teste1.AssemblyInfo.cs
+C:\Users\rodrigo.shimokawa\Downloads\t2\t2-master\Teste1\obj\Debug\netcoreapp3.1\Teste1.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.shimokawa\Downloads\t2\t2-master\Teste1\obj\Debug\netcoreapp3.1\Teste1.dll
+C:\Users\rodrigo.shimokawa\Downloads\t2\t2-master\Teste1\obj\Debug\netcoreapp3.1\Teste1.pdb
+C:\Users\rodrigo.shimokawa\Downloads\t2\t2-master\Teste1\obj\Debug\netcoreapp3.1\Teste1.genruntimeconfig.cache
